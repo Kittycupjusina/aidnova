@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+**/node_modules/
+
+# Env & local
+.env
+.env.*
+.DS_Store
+
+# Next.js
+frontend/.next/
+frontend/out/
+
+# Hardhat
+contracts/artifacts/
+contracts/cache/
+
+# Misc
+*.log
