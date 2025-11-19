@@ -1,0 +1,9 @@
+{
+  "chainId": "11155111",
+  "contracts": {
+    "ReliefTreasury": "0xfFEbF9A138575CB9693ae6a260D3d317A4Db6271",
+    "CrisisCouncil": "0x3557650E12BD8ADf36401aD4fCD0199ac004305b",
+    "RecipientDirectory": "0xE75B02e93bBB94dde978127B7291EB71a55691dB",
+    "ShieldedReliefVault": "0x405B750c05b0f26e8eFdAb8eD71e03Fbc8266468"
+  }
+}
