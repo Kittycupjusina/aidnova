@@ -17,3 +17,4 @@ contracts/cache/
 
 # Misc
 *.log
+frontend/.npm-cache/
